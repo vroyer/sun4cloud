@@ -19,6 +19,7 @@ source https://app.electricitymap.org/map
 The average power usage effectiveness (PUE) ratio for a data center in 2020 is 1.58, only marginally better than 7 years ago, according to the latest annual Uptime Institute survey (findings to be published shortly).
 
 ![datacenter-pu](images/datacenter-pu.png)
+source: https://www.mitsubishicritical.com/resources/improve-power-usage-effectiveness/
 
 1 Server = 514 * 1.58 = 855 Kg C02/year
 
