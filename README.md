@@ -75,7 +75,7 @@ Solar monitoring and prediction help to size and manage enargy storage.
 * No need for a building, a humidity control system, and fire suppression system.
 * The kubernetes pod placement helps to manage failures or lack of energy. 
 	* Batch and test workloads running during daily hours requires smaller batteries.
-	* Elassandra and Apache Pulsar may help in moving transparently applications and hot data from a k8s cluster to another.
+	* AstraDB/Cassandra/Elassandra and Apache Pulsar may help in moving transparently running applications and hot data from a k8s cluster to another.
 
 
 
